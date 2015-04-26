@@ -4,7 +4,7 @@
 
 # Site
 title: Rudy's Blog
-subtitle: Life is like a box of shit you never know what you gonna eat
+subtitle: seize the day
 description:
 author: Rudy Zhang
 language: zh-CN
@@ -69,3 +69,4 @@ theme: jacman
 deploy:
   type: git
   repo: https://github.com/Rudy-Zhang/blog.git
+
