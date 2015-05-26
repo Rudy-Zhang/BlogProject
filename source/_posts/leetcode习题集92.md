@@ -1,7 +1,7 @@
 title: "leetcode习题集 92 Reverse Linked List II "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Reverse a linked list from position m to n. Do it in-place and in one-pass.
 

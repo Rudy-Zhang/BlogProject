@@ -1,7 +1,7 @@
 title: "leetcode习题集 118 Pascal's Triangle "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given numRows, generate the first numRows of Pascal's triangle.
 

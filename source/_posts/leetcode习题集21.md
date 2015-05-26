@@ -1,7 +1,7 @@
 title: "leetcode习题集 21 Merge Two Sorted Lists"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.

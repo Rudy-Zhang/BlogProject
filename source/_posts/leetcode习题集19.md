@@ -1,7 +1,7 @@
 title: "leetcode习题集 19 Remove Nth Node From End of List"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Given a linked list, remove the nth node from the end of list and return its head.

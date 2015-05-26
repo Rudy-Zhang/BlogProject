@@ -1,7 +1,7 @@
 title: "leetcode习题集 105 Construct Binary Tree from Preorder and Inorder Traversal"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given preorder and inorder traversal of a tree, construct the binary tree.
 

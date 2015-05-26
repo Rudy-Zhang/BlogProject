@@ -1,7 +1,7 @@
 title: "C#由委托到Observer设计模式，再到事件机制"
 date: 2014-03-11 11:30:25
-tags: [C#]
 category: [.NET]
+tags: [C#]
 
 ---
 

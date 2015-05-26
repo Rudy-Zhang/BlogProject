@@ -1,7 +1,7 @@
 title: "一步一步写一个PHP框架（二）"
 date: 2015-04-22 15:31:44
-category: [PHP]
-tags: []
+category: [web开发]
+tags: [PHP,PHP框架]
 ---
 
 在写第一个PHP框架的时候参考[这位大哥](!http://www.yuansir-web.com/2012/01/10/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%86%99php-mvc%E6%A1%86%E6%9E%B6%E4%B8%80/),的内容和Codeigniter框架的源码。

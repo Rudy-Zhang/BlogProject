@@ -1,7 +1,7 @@
 title: "leetcode习题集 58 Length of Last Word"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
 

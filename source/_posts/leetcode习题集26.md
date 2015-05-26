@@ -1,7 +1,7 @@
 title: "leetcode习题集 26 Remove Duplicates from Sorted Array"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.

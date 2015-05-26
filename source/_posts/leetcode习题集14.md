@@ -1,7 +1,7 @@
 title: "leetcode习题集 14 Longest Common Prefix  "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Write a function to find the longest common prefix string amongst an array of strings.

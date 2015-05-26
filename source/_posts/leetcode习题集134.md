@@ -1,7 +1,7 @@
 title: "leetcode习题集 134 Gas Station"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 There are N gas stations along a circular route, where the amount of gas at station i is gas[i].
 

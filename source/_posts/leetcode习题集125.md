@@ -1,7 +1,7 @@
 title: "leetcode习题集 125 Valid Palindrome"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 

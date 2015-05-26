@@ -1,7 +1,7 @@
 title: "leetcode习题集 83 Remove Duplicates from Sorted List"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given a sorted linked list, delete all duplicates such that each element appear only once.
 

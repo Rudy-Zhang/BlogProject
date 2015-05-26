@@ -1,7 +1,7 @@
 title: "CodeIgniter笔记"
 date: 2014-10-28
-tags: [CodeIgniter] 
-category: [PHP]
+category: [web开发]
+tags: [CodeIgniter,PHP]
 ---
 ###CodeIgniter
 > CodeIgniter 是一个简单快速的PHP MVC框架。

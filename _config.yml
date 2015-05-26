@@ -43,7 +43,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: 
+default_category: true
 category_map: true
 tag_map: true
 
@@ -62,7 +62,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: jacman
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -70,3 +70,19 @@ deploy:
   type: git
   repo: https://github.com/Rudy-Zhang/blog.git
 
+
+#This part belong to theme next
+#comment
+duoshuo_shortname: rudy-zhang ## e.g. wuchong   your duoshuo short name.
+
+#statistic
+baidu_analytics: Rudy-Zhang
+
+#avatar
+avatar: https://avatars0.githubusercontent.com/u/9674774
+
+# Social links
+social:
+  github: https://github.com/Rudy-Zhang
+  zhihu: http://www.zhihu.com/people/rudy-zhang-93
+  # 等等

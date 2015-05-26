@@ -1,7 +1,7 @@
 title: "leetcode习题集 36 Valid Sudoku "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.

@@ -1,7 +1,7 @@
 title: "leetcode习题集 100 Same Tree"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given two binary trees, write a function to check if they are equal or not.
 

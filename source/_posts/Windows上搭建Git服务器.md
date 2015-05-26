@@ -44,11 +44,12 @@ COPSSH获得了ssh请求，如何才能调用git命令呢，需要：
 ###测试连接
  本地打开gitbash，ssh连接服务器:`ssh administrator@192.168.199.171`
  输入administrator的密码后就通过ssh远程连接到了服务器上，在这上面可以通过git命令做操作。
+
 ##建库操作
 使用通过ssh远程登录的账户调用git命令建库
 
 ![enter image description here](http://ww1.sinaimg.cn/mw690/4c2edcb7jw1eqlipzviylj20hw05p3z2.jpg)
-####关于裸库
+###关于裸库
 
 用`git init`初始化的版本库用户也可以在该目录下执行所有git方面的操作。但别的用户在将更新push上来的时候容易出现冲突。 
 使用`git init –bare`方法创建一个所谓的裸仓库，之所以叫裸仓库是因为这个仓库只保存git历史提交的版本信息，而不允许用户在上面进行各种git操作，如果你硬要操作的话，只会得到下面的错误（”This operation must be run in a work tree”） 

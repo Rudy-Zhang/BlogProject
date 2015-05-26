@@ -1,7 +1,7 @@
 title: "leetcode习题集 9 Palindrome Number"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Determine whether an integer is a palindrome. Do this without extra space.

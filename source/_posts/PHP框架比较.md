@@ -1,6 +1,7 @@
 title: "PHP框架比较"
 date: 2014-10-21 
-category: [PHP]
+category: [web开发]
+tags: [PHP,PHP框架]
 ---
 ##CodeIgniter
 Codeigniter 相当轻量级，下载下来就能用， CI 的最大特点就是可扩展性很强 你可以通过不修改源码的方式 优雅的扩展几乎所有的东西。

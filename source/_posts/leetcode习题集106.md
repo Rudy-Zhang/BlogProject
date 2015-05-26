@@ -1,7 +1,7 @@
 title: "leetcode习题集 106 Construct Binary Tree from Inorder and Postorder Traversal"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given inorder and postorder traversal of a tree, construct the binary tree.
 

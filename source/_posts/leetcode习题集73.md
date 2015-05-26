@@ -1,7 +1,7 @@
 title: "leetcode习题集 73 Set Matrix Zeroes"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in place.
 

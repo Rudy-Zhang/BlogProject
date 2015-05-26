@@ -1,7 +1,7 @@
 title: "leetcode习题集 70 Climbing Stairs"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 You are climbing a stair case. It takes n steps to reach to the top.
 

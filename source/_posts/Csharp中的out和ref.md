@@ -1,7 +1,7 @@
 title: "C#中的out和ref"
 date: 2014-03-04 21:27
-tags: [C#]
 category: [.NET]
+tags: [C#]
 ---
 
 ##为什么要用out和ref

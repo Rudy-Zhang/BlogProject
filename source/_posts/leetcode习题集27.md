@@ -1,7 +1,7 @@
 title: "leetcode习题集 27 Remove Element"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Given an array and a value, remove all instances of that value in place and return the new length.

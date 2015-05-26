@@ -1,7 +1,7 @@
 title: "leetcode习题集 88 Merge Sorted Array "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Given two sorted integer arrays A and B, merge B into A as one sorted array.
 

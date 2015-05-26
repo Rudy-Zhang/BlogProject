@@ -1,7 +1,7 @@
 title: "C# 异步编程"
 date: 2014-03-07 19:41
+category: [.NET]
 tags: [C#]
-category: [.NET] 
 ---
 
 ##为什么要使用异步编程

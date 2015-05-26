@@ -1,7 +1,7 @@
 title: "leetcode习题集 13 Roman to Integer "
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 
 Given a roman numeral, convert it to an integer.

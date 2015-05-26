@@ -1,7 +1,7 @@
 title: "一步一步写一个PHP框架（一）"
 date: 2015-04-20 15:31:44
-category: [PHP]
-tags: []
+category: [web开发]
+tags: [PHP,PHP框架]
 ---
 
 ##前言

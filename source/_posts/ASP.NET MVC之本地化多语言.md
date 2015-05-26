@@ -1,7 +1,8 @@
 title: "ASP.NET MVC之本地化多语言"
 date: 2015-03-20 19:56:58
-tags: [ASP MVC]
 category: [.NET]
+tags: [ASP MVC]
+
 ---
 
 ##前言
@@ -33,7 +34,7 @@ ASP.NET MVC 还提供将强类型数据或对象传递到视图模板的能力�
 [Required(ErrorMessageResourceName = "PasswordRequiredMessage", ErrorMessageResourceType = typeof(Resources.Global))]
 ```
 
-####在Controller中
+###在Controller中
 
 一般来说在Controller不出现汉字的字符串，如果使用，可以通过如下方法
 

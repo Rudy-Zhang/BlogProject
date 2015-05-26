@@ -1,7 +1,7 @@
 title: "C#中get和set的原理"
 date: 2014-02-26 11:44:00
-tags: [C#]
 category: [.NET]
+tags: [C#]
 
 ---
 ##为啥要使用get，set？

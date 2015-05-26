@@ -1,7 +1,8 @@
 title: "CodeIgniter笔记之数据库访问"
-date: 2014-10-28
-tags: [CodeIgniter] 
-category: [PHP]
+date: 2014-10-28 
+category: [web开发]
+tags: [CodeIgniter,PHP]
+
 ---
 ####修改配置文件
 `application/config/database.php`

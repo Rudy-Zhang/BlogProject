@@ -1,6 +1,6 @@
 title: "使用bootstrap进行布局"
 date: 2015-03-21 10:49:20
-category: [前端]
+category: [web开发]
 tags: [bootstrap]
 ---
 ##前言

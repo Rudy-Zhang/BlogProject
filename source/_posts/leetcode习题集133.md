@@ -1,7 +1,7 @@
 title: "leetcode习题集 125 Clone Graph"
 date: 2015-04-06 15:31:44
-category: [leetcode习题集]
-tags: []
+category: [算法]
+tags: [leetcode习题集]
 ---
 Clone an undirected graph. Each node in the graph contains a label and a list of its neighbors.
 
