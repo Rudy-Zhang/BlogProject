@@ -1,6 +1,6 @@
 title: "Git笔记"
 date: 2015-03-21 08:21:32
-category: [工具]
+category: [开发工具]
 tags: [Git]
 ---
 ##前言
